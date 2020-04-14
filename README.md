@@ -1,4 +1,4 @@
-# Sources of the [SARS-CoV-2 Cases communicated by Swiss Cantons and Principality of Liechtenstein (FL)] (https://github.com/openZH/covid_19)
+# Sources of the [SARS-CoV-2 Cases communicated by Swiss Cantons and Principality of Liechtenstein (FL)](https://github.com/openZH/covid_19)
 We are providing a common official OGD dataset of SARS-CoV-2 case numbers, which are communicated by official Swiss canton's (26 cantons, abbreviations see below) and Principality of Liechtenstein's (abbreviation: FL) sources. In this repository, we provide additional information about the sources of the data. The data shown here is provided by the cantons and shows their most recent answer to a weekly poll.
 
 We are available to advise and support interested authorities, how to easily complete both historized data, and missing columns. You can reach us:
