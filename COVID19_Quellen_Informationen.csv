@@ -1,9 +1,9 @@
 value,information
 canton,data gathered by the canton
 canton_sampling,data gathered by canton, the date indicates the extraction of the sample
-canton_result,data gathered by the canton, the date indicates the positive result of the test
-canton_report,data gathered by the canton, the date indicates the report to the canton
+canton_result,data gathered by the canton; the date indicates the positive result of the test
+canton_report,data gathered by the canton; the date indicates the report to the canton
 ism,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG)
-ism_sampling,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG), the date indicates the extraction of the sample
-ism_result,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG), the date indicates the positive result of the test
+ism_sampling,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG); the date indicates the extraction of the sample
+ism_result,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG); the date indicates the positive result of the test
 ies,data collected by the canton out of the Informationserfassungssysten (IES) of the Koordinierte Sanitätsdienste (KSD)
