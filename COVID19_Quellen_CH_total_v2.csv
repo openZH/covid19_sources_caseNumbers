@@ -8,7 +8,7 @@ BS,,canton_result,,canton,canton,,canton,canton,1970-01-01,,1
 FL,,,,,,,,,,,
 FR,,,,,,,,,,,
 GE,,,,,,,,,,,
-GL,,canton_result,,canton,,,,canton,,2020-03-31,0
+GL,,canton_result,,canton,,,,canton,1970-01-01,2020-03-31,0
 GL,,ism_result,,canton,,,,ism,2020-04-01,,1
 GR,,ism_result,,ies,,,,ism,1970-01-01,,1
 JU,,,,,,,,,,,
@@ -16,7 +16,7 @@ LU,,,,,,,,,,,
 NE,,,,,,,,,,,
 NW,,ism_result,,canton,canton,,,ism,1970-01-01,,1
 OW,,,,,,,,,,,
-SG,,,canton,canton,canton,,canton,ism,,2020-04-07,0
+SG,,,canton,canton,canton,,canton,ism,1970-01-01,2020-04-07,0
 SG,,ism_result,canton,canton,canton,,canton,ism,2020-04-08,,1
 SH,,ism_result,,canton,canton,,,ism,1970-01-01,,1
 SO,,canton_result,,canton,,,,canton,1970-01-01,,1
