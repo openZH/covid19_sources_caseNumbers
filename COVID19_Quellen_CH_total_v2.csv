@@ -6,14 +6,15 @@ BE,,,,,,,,,,,
 BL,,canton_result,,ies,ies,ies,ies,ism,1970-01-01,,1
 BS,,canton_result,,canton,canton,,canton,canton,1970-01-01,,1
 FL,,,,,,,,,,,
-FR,,,,,,,,,,,
+FR,canton,canton_result,,canton,canton,,canton,canton,1970-01-01,2020-04-02,0
+FR,canton,ism_result,,canton,canton,,canton,ism,2020-04-03,,1
 GE,,,,,,,,,,,
 GL,,canton_result,,canton,,,,canton,1970-01-01,2020-03-31,0
 GL,,ism_result,,canton,,,,ism,2020-04-01,,1
 GR,,ism_result,,ies,,,,ism,1970-01-01,,1
-JU,,,,,,,,,,,
+JU,,ism_sampling,,canton,canton,,,ism,1970-01-01,,1
 LU,,,,,,,,,,,
-NE,,,,,,,,,,,
+NE,,ism_sampling,,canton,canton,canton,,ism,1970-01-01,,1
 NW,,ism_result,,canton,canton,,,ism,1970-01-01,,1
 OW,,,,,,,,,,,
 SG,,,canton,canton,canton,,canton,ism,1970-01-01,2020-04-07,0
@@ -25,6 +26,6 @@ TG,canton_result,canton_result,,canton,,,,canton,1970-01-01,,1
 TI,,,,,,,,,,,
 UR,canton_result,canton_result,,canton,,,canton,canton,1970-01-01,,1
 VD,,ism_result,,canton,canton,,canton,canton,1970-01-01,,1
-VS,,,,,,,,,,,
+VS,,canton_result,,canton,canton,canton,canton,canton,1970-01-01,,1
 ZG,,,,,,,,,,,
 ZH,,canton_result,,canton,,canton,,canton,1970-01-01,,1
