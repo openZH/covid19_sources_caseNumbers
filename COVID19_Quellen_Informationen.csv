@@ -6,4 +6,4 @@ canton_estimate,data estimated by the canton
 ism,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG)
 ism_sampling,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG); the date indicates the extraction of the sample
 ism_result,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG); the date indicates the positive result of the test
-ies,data collected by the canton out of the Informationserfassungssysten (IES) of the Koordinierte Sanitätsdienste (KSD)
+ies,data collected by the canton out of the Informations- und Einsatzsystem (IES) of the Koordinierte Sanitätsdienste (KSD)
