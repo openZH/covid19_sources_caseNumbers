@@ -1,4 +1,4 @@
-abbreviation_canton_and_fl,ncumul_tested_src,ncumul_conf_src,current_isolated,current_quarantined,new_hosp_src,current_hosp_src,current_icu_src,current_vent_src,ncumul_released_src,ncumul_deceased_src,from,until,active
+abbreviation_canton_and_fl,ncumul_tested_src,ncumul_conf_src,current_isolated_src,current_quarantined_src,new_hosp_src,current_hosp_src,current_icu_src,current_vent_src,ncumul_released_src,ncumul_deceased_src,from,until,active
 AG,,,,,,,,,,,,,
 AI,,canton_result,,,,,,,,,1970-01-01,,1
 AR,,canton_result,,,,canton,,,,canton,1970-01-01,,1
