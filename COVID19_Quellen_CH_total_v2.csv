@@ -11,7 +11,7 @@ FR,canton,ism_result,,,,canton,canton,,canton,ism,2020-04-03,,1
 GE,,,,,,,,,,,,,
 GL,,canton_result,,,,canton,,,,canton,1970-01-01,2020-03-31,0
 GL,,ism_result,,,,canton,,,,ism,2020-04-01,,1
-GR,,ism_result,,,,ies,,,,ism,1970-01-01,,1
+GR,,ism_sampling,,,,ies,,,,ism,1970-01-01,,1
 JU,,ism_sampling,,,,canton,canton,,,ism,1970-01-01,,1
 LU,,,,,,,,,,,,,
 NE,,ism_sampling,,,,canton,canton,canton,,ism,1970-01-01,,1
