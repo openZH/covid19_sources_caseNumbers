@@ -4,12 +4,12 @@ ism,data collected by the canton out of the Information System Meldungen (ISM) o
 ies,data collected by the canton out of the Informations- und Einsatzsystem (IES) of the Koordinierte Sanitätsdienste (KSD)
 canton_ism,data collected by the canton out of the Information System Meldungen (ISM) of the Bundesamt für Gesundheit (BAG) and other sources
 sampling,the date indicates the extraction of the sample
-sampling_conf,"the date indicates the extraction of the sample, confirmative second test is conducted (at times)
+sampling_conf,"the date indicates the extraction of the sample, confirmative second test is conducted (at times)"
 result,the date indicates the result of the test
-result_conf,"the date indicates the result of the test or the report to the canton, confirmative second test is conducted (at times)
+result_conf,"the date indicates the result of the test or the report to the canton, confirmative second test is conducted (at times)"
 report,the date indicates the report of the result to the canton (if cantonal source) or to the Bundesamt für Gesundheit (BAG) (if ISM as source)
 report_first,the date indicates the report of the result to the canton or to the Bundesamt für Gesundheit (BAG); whichever is reported first
-report_conf,"the date indicates the report of the result to the canton, confirmative second test is conducted (at times)
+report_conf,"the date indicates the report of the result to the canton, confirmative second test is conducted (at times)"
 pos,only persons with positive test results
 suspected_incl,patients with positive test results plus suspected cases with outstanding test results included
 estimate,estimated number of persons recovered
@@ -21,5 +21,5 @@ ante_pos_suspected_incl,positive tested before decease plus persons that were co
 post_pos,positive tested after decease
 all_pos,positive tested before or after decease
 all_pos_suspected_incl,positive tested before or after decease plus persons that were counted as positive due to according symptoms and/or CT result
-pos_10_free,only persons with positive test results; released automatically after 10 days but only if free of symptoms
-no_res_10_free,persons without a positive test result; released automatically after 10 days but only if free of symptoms
+pos_10_free,"only persons with positive test results; released automatically after 10 days but only if free of symptoms"
+no_res_10_free,"persons without a positive test result; released automatically after 10 days but only if free of symptoms"
